@@ -1,0 +1,46 @@
+.box{
+    padding: 40px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    
+}
+.Horror{
+    background-color: rgb(0, 81, 202);
+    border-radius: 2rem;
+    padding: 22px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+}
+
+.Thriller{
+    background-color: rgb(0, 202, 61);
+    border-radius: 2rem;
+    padding: 22px;
+    text-align: center;
+}
+.Romantic{
+    background-color: rgb(255, 92, 92);
+    border-radius: 2rem;
+    padding: 22px;
+    text-align: center;
+}
+.Comedy{
+    background-color: rgb(46, 177, 177);
+    border-radius: 2rem;
+    padding: 22px;
+    text-align: center;
+}
+    
+
+
+
+     
+
+
+
+
+
+ 
+

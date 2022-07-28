@@ -1,0 +1,43 @@
+.premium{
+    padding: 30px;
+    
+}
+.heading{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.small-world{
+    
+    padding-top: 40px; 
+    text-align: left;
+ 
+}
+
+.sampleBox{
+
+    background-color: #252941;
+    border-radius: 2rem;
+    padding: 15px;
+    margin-top: 50px;
+    
+
+    
+
+} 
+
+.sampleBox2{
+    background-color: #252941;
+    border-radius: 2rem;
+    padding: 15px;
+    margin-top: 50px;
+
+} 
+
+.register{
+    padding: 40px;
+    display: grid;
+    grid-template-columns: 1fr;
+    
+}
+
+
